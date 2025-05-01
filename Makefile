@@ -1,6 +1,6 @@
 # Makefile for cross-compiling Go program to multiple platforms
 
-APP_NAME := pddns
+APP_NAME := psmtp
 SRC := main.go
 BUILD_DIR := build
 
