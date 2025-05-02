@@ -5,8 +5,8 @@
 	Example of config.json:
 
 	{
-    	"email": "prrar83@gmail.com",
-    	"password": "vphdiikfusvtwcul",
+    	"email": "username@gmail.com",
+    	"password": "app-generated-password",
     	"smtp_host": "smtp.gmail.com",
     	"smtp_port": "587"
 	}
